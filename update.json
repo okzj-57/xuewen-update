@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "2.3.8",
-  "url": "https://okzj-57.github.io/xuewen-update/xuewen-2.3.8.apk",
-  "notes": "震动：补 VIBRATE 权限、时长放大 1.8 倍、新增强度滑块",
-  "sizeKB": 3964,
+  "versionCode": 29,
+  "versionName": "2.3.9",
+  "url": "https://okzj-57.github.io/xuewen-update/xuewen-2.3.9.apk",
+  "notes": "震动再放大；强度滑条改中性配色",
+  "sizeKB": 3965,
   "built": "2026-09-23"
 }
