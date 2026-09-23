@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "2.2.6",
-  "url": "https://okzj-57.github.io/xuewen-update/xuewen-2.2.6.apk",
-  "notes": "修「从识典古籍返回多退一层」；设置里显示安装包版本",
-  "sizeKB": 3960,
+  "versionCode": 22,
+  "versionName": "2.3.2",
+  "url": "https://okzj-57.github.io/xuewen-update/xuewen-2.3.2.apk",
+  "notes": "修：从识典古籍返回后回到那一章的目录（数据与滚动位置都恢复）；识典古籍上方按钮不再被状态栏挡住",
+  "sizeKB": 3962,
   "built": "2026-09-23"
 }
