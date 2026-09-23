@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "2.3.4",
-  "url": "https://okzj-57.github.io/xuewen-update/xuewen-2.3.4.apk",
-  "notes": "回滚：识典古籍底部留白（无效且更糟，恢复原样）",
-  "sizeKB": 3962,
+  "versionCode": 25,
+  "versionName": "2.3.5",
+  "url": "https://okzj-57.github.io/xuewen-update/xuewen-2.3.5.apk",
+  "notes": "进列表页不再先回顶部（消除两段跳）；进度保存加固（切后台落盘、失败可见）",
+  "sizeKB": 3963,
   "built": "2026-09-23"
 }
