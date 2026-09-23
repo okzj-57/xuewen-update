@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2.3",
-  "url": "https://okzj-57.github.io/xuewen-update/xuewen-2.2.3.apk",
-  "notes": "测试：验证应用内 下载并安装 链路",
-  "sizeKB": 3957,
+  "versionCode": 14,
+  "versionName": "2.2.4",
+  "url": "https://okzj-57.github.io/xuewen-update/xuewen-2.2.4.apk",
+  "notes": "诗词可收藏 + 进列表定位当前项 + 返回落点修正 + 底部按钮不再被系统栏遮住",
+  "sizeKB": 3959,
   "built": "2026-09-23"
 }
