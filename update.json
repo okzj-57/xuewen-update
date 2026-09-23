@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "2.3.6",
-  "url": "https://okzj-57.github.io/xuewen-update/xuewen-2.3.6.apk",
-  "notes": "名句库/诗词曲页新增「回到顶部」按钮（在返回右边）",
-  "sizeKB": 3963,
+  "versionCode": 27,
+  "versionName": "2.3.7",
+  "url": "https://okzj-57.github.io/xuewen-update/xuewen-2.3.7.apk",
+  "notes": "修震动不生效（补 VIBRATE 权限）+ 新增震动强度滑块",
+  "sizeKB": 3964,
   "built": "2026-09-23"
 }
